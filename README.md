@@ -1,7 +1,5 @@
 ## 안녕하세요👋 김혜경입니다.
 
-#### UI/UX와 사용자 경험 최적화에 관심이 많은 프론트엔드 개발자입니다.
-
   ☀️  I'm a cheerful person. <br />
  🌱  I’m currently learning front-end develop <br />
  💧  I'll learn more develop and UI/UX <br />
