@@ -3,8 +3,8 @@
   ☀️  I'm a cheerful person. <br />
  🌱  I’m currently learning front-end develop <br />
  💧  I'll learn more develop and UI/UX <br />
- <br />
  🌻  I want to be a full-stack developer who can make cool service 
+<br />
 <br />
 
 
