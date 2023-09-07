@@ -7,13 +7,11 @@
  🌻  I want to be a full-stack developer who can make cool service 
 <br />
 
-<br />
 
 #### Contact
 💌 이메일 : haegnim@gmail.com <br />
 📗 블로그 : [https://velog.io/@haegnim](https://velog.io/@haegnim)
 
-<br />
 
 #### Skils
 <p></p>
@@ -42,7 +40,6 @@ Collaboration tool
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=ffffff"/>
 </p>
 
-<br />
 <br />
 
 ## Daily log
