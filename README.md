@@ -46,9 +46,6 @@ Collaboration tool
 ## Daily log
 ##### 최신글
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=haegnim)](https://velog.io/@haegnim) 
-##### TIL & WIL
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=haegnim&tag=TIL)](https://github.com/eungyeole/velog-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=haegnim&tag=WIL)](https://github.com/eungyeole/velog-readme-stats)
 
 <!--
 **Haegnim/Haegnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
