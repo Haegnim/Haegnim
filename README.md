@@ -18,13 +18,15 @@
 <p></p>
 Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=ffffff"/>
+
   <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=ffffff"/>
 </p>
 Framework & Library
 <p align="left">
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff"/>
+
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/next JS-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=ffffff"/>
