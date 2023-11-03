@@ -33,8 +33,8 @@ Framework & Library
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styledcomponents&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/react router dom-CA4245?style=flat-square&logo=reactrouter&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=ffffff"/>
 </p>
 Collaboration tool
 <p align="left">
